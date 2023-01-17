@@ -20,7 +20,7 @@ public class CatalogServiceApplication {
 
 
 	@Autowired
-   private OrderRepository orderRepository;
+   private OrderRepository oooooooooorderRepository;
 
 	@GetMapping("orders")
 	public List<Orders> getAllOrders(){
